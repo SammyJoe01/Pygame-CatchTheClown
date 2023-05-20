@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## **Prerequisites**
 1. Python 3.x
 2. Pygame library
-3. The image files, fonts and audios used in the programs
+3. The image files, fonts and audios used in the program
 
 ## **Installing**
 Clone this repository to your local machine using the following command:

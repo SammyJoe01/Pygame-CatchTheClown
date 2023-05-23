@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## **Installing**
 Clone this repository to your local machine using the following command:
-**git clone https://github.com/yourUsername/Catch-the-Clown.git**
+**git clone https://github.com/yourUsername/CatchTheClown.git**
 
 ## **Running the Game**
 Navigate to the project directory and run the following command in your terminal:

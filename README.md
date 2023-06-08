@@ -9,10 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 2. Pygame library
 3. The image files, fonts and audios used in the program
 
-## **Installing**
-Clone this repository to your local machine using the following command:
-**git clone https://github.com/yourUsername/CatchTheClown.git**
-
 ## **Running the Game**
 Navigate to the project directory and run the following command in your terminal:
 python3 catch_the_clown.py
